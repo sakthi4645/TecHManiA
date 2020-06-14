@@ -1,0 +1,62 @@
+html{
+    scroll-behavior: smooth;
+}
+.headpath h1{
+    text-align: center;
+}
+.headpath h4{
+    color: yellow;
+}
+.headpath h5{
+    color: white;
+}
+.top-footer a{
+    color: white;
+     
+}
+.selector a{
+    text-decoration: none;
+    color: black;
+}
+.selector{
+    background: cadetblue;
+}
+.selector a:hover{
+    color: white;
+}
+.content label{
+    background: lightblue;
+    padding: 5px 10px;
+    color: black;
+    cursor: pointer;
+}
+.content label:hover{
+    background: lightblue;
+    padding: 5px 10px;
+    color: rgb(72, 9, 245);
+    cursor: pointer;
+}
+@media (max-width:550px){
+    .teche h2{
+        font-size: 22px;
+    }
+}
+@media (max-width:550px){
+    #redmi h2{
+        font-size: 22px;
+    }
+}
+@media (max-width:550px){
+    #gad h2{
+        font-size: 22px;
+    }
+}
+@media (max-width:550px){
+    #jack h2{
+        font-size: 22px;
+    }
+}
+.teche label{
+    background: rgb(184, 178, 178);
+    padding: 5px 10px;
+}
