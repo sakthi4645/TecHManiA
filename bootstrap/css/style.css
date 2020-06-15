@@ -60,3 +60,15 @@ html{
     background: rgb(184, 178, 178);
     padding: 5px 10px;
 }
+@media (max-width:550px){
+    .blogy h2{
+        font-size: 22px;
+    }
+}
+.blogy a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 10px;
+    background: cadetblue;
+}
+
